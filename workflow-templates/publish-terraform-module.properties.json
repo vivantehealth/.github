@@ -6,7 +6,6 @@
         "HCL"
     ],
     "filePatterns": [
-        ".*\.tf$",
         ".*\\.tf$"
     ]
 }
