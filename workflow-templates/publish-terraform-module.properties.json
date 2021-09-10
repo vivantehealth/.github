@@ -1,0 +1,11 @@
+{
+    "name": "Publish Terraform Module",
+    "description": "Creates a GitHub release on merge to the default branch",
+    "iconName": "example-icon",
+    "categories": [
+        "HCL"
+    ],
+    "filePatterns": [
+        ".*\\.tf$"
+    ]
+}
