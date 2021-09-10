@@ -30,7 +30,7 @@ jobs:
 
   release:
     name: Release
-    if: github.ref == "$default-branch"
+    if: github.ref == 'refs/heads/$default-branch'
     needs:
       - validate
     runs-on: ubuntu-latest
