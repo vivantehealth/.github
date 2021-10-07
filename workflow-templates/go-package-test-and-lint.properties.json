@@ -1,0 +1,9 @@
+{
+    "name": "Test and lint a go package",
+    "description": "Test and lint workflow for go packages",
+    "iconName": "go-package-test-and-lint",
+    "categories": [
+        "Go"
+    ]
+}
+/home/alkallio/Downloads/package-svgrepo-com.svg
